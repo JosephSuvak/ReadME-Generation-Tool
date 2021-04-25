@@ -1,3 +1,8 @@
-# Professional README Generator Starter Code
+# Professional README Generator 
 
-[How to create a Professional README](./readme-guide.md)
+## Open this folder in you local machine.
+## Then, go into develop and type 'index.js'.
+
+Follow the Instructions.
+
+[How to Use the Node.js tool](./CommandPrompt.mp4)

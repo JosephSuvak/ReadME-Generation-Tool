@@ -1,0 +1,20 @@
+{
+  "name": "readme-creator",
+  "version": "1.0.0",
+  "description": "A ReadME file generator to make developer's lives easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NodeJs-Create-ReadME"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "readme"
+  ],
+  "author": "Joseph Suvak",
+  "license": "UNLICENSED"
+}
